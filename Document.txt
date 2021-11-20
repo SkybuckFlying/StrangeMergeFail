@@ -3,3 +3,5 @@ SomeText2
 SomeText3
 
 Feature1
+
+changes here to cause a conflict for merge testing
